@@ -1,0 +1,8 @@
+# some requirements for plotting, calculations...
+matplotlib=3.4.3
+numpy=1.22.3
+scipy=1.7.1
+Pillow=8.4.0
+scikit-image=0.20.0
+requests=2.29.0
+ipython=8.13.1
