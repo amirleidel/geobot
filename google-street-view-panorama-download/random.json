@@ -1,0 +1,446 @@
+[
+    {
+        "id": "5d701404b4ec17ea0444e52f",
+        "name": "harlow",
+        "slug": "5d701404b4ec17ea0444e52f",
+        "description": "cool yh",
+        "url": "/maps/5d701404b4ec17ea0444e52f",
+        "playUrl": "/5d701404b4ec17ea0444e52f/play",
+        "published": "True",
+        "banned": "False",
+        "images": {
+            "backgroundLarge": "None",
+            "incomplete": "True"
+        },
+        "bounds": {
+            "min": {
+                "lat": 51.738793466216315,
+                "lng": 0.054106674625813866
+            },
+            "max": {
+                "lat": 51.79785811160888,
+                "lng": 0.15298362775081387
+            }
+        },
+        "customCoordinates": "None",
+        "coordinateCount": "208",
+        "regions": "None",
+        "creator": {
+            "nick": "Noah Spriggs",
+            "created": "2019-08-29T15:13:01.4060000Z",
+            "isProUser": "False",
+            "consumedTrial": "False",
+            "isVerified": "False",
+            "pin": {
+                "url": "pin/a2f3c2f75a13afe8c2c71efdbb75d4cb.png",
+                "anchor": "center-center",
+                "isDefault": "False"
+            },
+            "fullBodyPin": "pin/2269af440dda77cf62a40f2c959ee72f.png",
+            "color": 0,
+            "url": "/user/5d67eb7d82777cc9c423c23b",
+            "id": "5d67eb7d82777cc9c423c23b",
+            "countryCode": "gb",
+            "onboarding": {
+                "tutorialToken": "None",
+                "tutorialState": "Unknown"
+            },
+            "br": {
+                "level": 3,
+                "division": 10,
+                "streak": 0
+            },
+            "streakProgress": "None",
+            "explorerProgress": "None",
+            "dailyChallengeProgress": 0,
+            "progress": {
+                "xp": 390,
+                "level": 3,
+                "levelXp": 300,
+                "nextLevel": 4,
+                "nextLevelXp": 450,
+                "title": {
+                    "id": 10,
+                    "tierId": 10
+                },
+                "brRank": {
+                    "rating": 0,
+                    "rank": "None",
+                    "gamesLeftBeforeRanked": 3,
+                    "division": {
+                        "id": 0,
+                        "divisionId": 0,
+                        "tierId": 0
+                    }
+                },
+                "csRank": {
+                    "rating": 0,
+                    "rank": "None",
+                    "gamesLeftBeforeRanked": 3,
+                    "division": {
+                        "id": 0,
+                        "divisionId": 0,
+                        "tierId": 0
+                    }
+                },
+                "duelsRank": {
+                    "rating": 0,
+                    "rank": "None",
+                    "gamesLeftBeforeRanked": 3,
+                    "division": {
+                        "id": 0,
+                        "divisionId": 0,
+                        "tierId": 0
+                    }
+                },
+                "competitionMedals": {
+                    "bronze": 0,
+                    "silver": 0,
+                    "gold": 0,
+                    "platinum": 0
+                },
+                "streaks": {
+                    "brCountries": 0,
+                    "brDistance": 0,
+                    "csCities": 0,
+                    "duels": 0
+                }
+            },
+            "competitive": {
+                "elo": 0,
+                "rating": 0,
+                "lastRatingChange": 0,
+                "division": {
+                    "type": 10,
+                    "startRating": 0,
+                    "endRating": 450
+                }
+            },
+            "lastNameChange": "2000-01-01T00:00:00.0000000Z",
+            "isBanned": "False",
+            "nameChangeAvailableAt": "None",
+            "avatar": {
+                "fullBodyPath": "pin/2269af440dda77cf62a40f2c959ee72f.png"
+            },
+            "isBotUser": "False"
+        },
+        "createdAt": "2019-09-04T19:44:04.3150000Z",
+        "updatedAt": "2019-09-04T19:44:05.8750000Z",
+        "numFinishedGames": 703,
+        "likedByUser": "None",
+        "averageScore": 17237,
+        "avatar": {
+            "background": "night",
+            "decoration": "tractor",
+            "ground": "beige",
+            "landscape": "forest"
+        },
+        "difficulty": "EASY",
+        "difficultyLevel": 2,
+        "highscore": "None",
+        "isUserMap": "True",
+        "highlighted": "False",
+        "free": "False",
+        "panoramaProvider": "StreetView",
+        "inExplorerMode": "False",
+        "maxErrorDistance": 9456,
+        "likes": 14,
+        "locationSelectionMode": 2
+    },
+    {
+        "id": "5ff995cc44aa8000019ae3c8",
+        "name": "Skate Spots of the World",
+        "slug": "5ff995cc44aa8000019ae3c8",
+        "description": "Popular Skateboarding spots all around the world, would you guess their exact location?",
+        "url": "/maps/5ff995cc44aa8000019ae3c8",
+        "playUrl": "/5ff995cc44aa8000019ae3c8/play",
+        "published": "True",
+        "banned": "False",
+        "images": {
+            "backgroundLarge": "None",
+            "incomplete": "True"
+        },
+        "bounds": {
+            "min": {
+                "lat": -37.81768558002697,
+                "lng": -123.1027357674699
+            },
+            "max": {
+                "lat": 55.70128174556284,
+                "lng": 151.2676635505542
+            }
+        },
+        "customCoordinates": "None",
+        "coordinateCount": "157",
+        "regions": "None",
+        "creator": {
+            "nick": "GyOm",
+            "created": "2020-09-28T11:18:55.1110000Z",
+            "isProUser": "False",
+            "consumedTrial": "True",
+            "isVerified": "False",
+            "pin": {
+                "url": "pin/310a6ba4c2679f3f4c1b67ad72a036c0.png",
+                "anchor": "center-center",
+                "isDefault": "False"
+            },
+            "fullBodyPin": "None",
+            "color": 0,
+            "url": "/user/5f71c69f1ea3d20001e23dfd",
+            "id": "5f71c69f1ea3d20001e23dfd",
+            "countryCode": "de",
+            "onboarding": {
+                "tutorialToken": "None",
+                "tutorialState": "Unknown"
+            },
+            "br": {
+                "level": 30,
+                "division": 50,
+                "streak": 0
+            },
+            "streakProgress": "None",
+            "explorerProgress": "None",
+            "dailyChallengeProgress": 0,
+            "progress": {
+                "xp": 19559,
+                "level": 30,
+                "levelXp": 18520,
+                "nextLevel": 31,
+                "nextLevelXp": 20050,
+                "title": {
+                    "id": 100,
+                    "tierId": 40
+                },
+                "brRank": {
+                    "rating": -16,
+                    "rank": 67,
+                    "gamesLeftBeforeRanked": 0,
+                    "division": {
+                        "id": 120,
+                        "divisionId": 30,
+                        "tierId": 10
+                    }
+                },
+                "csRank": {
+                    "rating": 0,
+                    "rank": "None",
+                    "gamesLeftBeforeRanked": 2,
+                    "division": {
+                        "id": 0,
+                        "divisionId": 0,
+                        "tierId": 0
+                    }
+                },
+                "duelsRank": {
+                    "rating": 114,
+                    "rank": 77,
+                    "gamesLeftBeforeRanked": 0,
+                    "division": {
+                        "id": 140,
+                        "divisionId": 40,
+                        "tierId": 30
+                    }
+                },
+                "competitionMedals": {
+                    "bronze": 1,
+                    "silver": 0,
+                    "gold": 2,
+                    "platinum": 0
+                },
+                "streaks": {
+                    "brCountries": 0,
+                    "brDistance": 0,
+                    "csCities": 0,
+                    "duels": 2
+                }
+            },
+            "competitive": {
+                "elo": 76,
+                "rating": 577,
+                "lastRatingChange": 0,
+                "division": {
+                    "type": 20,
+                    "startRating": 450,
+                    "endRating": 675
+                }
+            },
+            "lastNameChange": "2000-01-01T00:00:00.0000000Z",
+            "isBanned": "False",
+            "nameChangeAvailableAt": "None",
+            "avatar": {
+                "fullBodyPath": "None"
+            },
+            "isBotUser": "False"
+        },
+        "createdAt": "2021-01-09T11:38:52.0830000Z",
+        "updatedAt": "2021-05-04T07:53:06.1270000Z",
+        "numFinishedGames": 1236,
+        "likedByUser": "None",
+        "averageScore": 18544,
+        "avatar": {
+            "background": "darknight",
+            "decoration": "oaktrees",
+            "ground": "beige",
+            "landscape": "skyline"
+        },
+        "difficulty": "EASY",
+        "difficultyLevel": 2,
+        "highscore": "None",
+        "isUserMap": "True",
+        "highlighted": "True",
+        "free": "False",
+        "panoramaProvider": "StreetView",
+        "inExplorerMode": "False",
+        "maxErrorDistance": 13143656,
+        "likes": 32,
+        "locationSelectionMode": 1
+    },
+    {
+        "id": "623df80a092089cb1cf0f679",
+        "name": "The World [Wikipedia]",
+        "slug": "623df80a092089cb1cf0f679",
+        "description": "PLAY WITH UNITY SCRIPT!!!!!!!",
+        "url": "/maps/623df80a092089cb1cf0f679",
+        "playUrl": "/623df80a092089cb1cf0f679/play",
+        "published": "True",
+        "banned": "False",
+        "images": {
+            "backgroundLarge": "None",
+            "incomplete": "True"
+        },
+        "bounds": {
+            "min": {
+                "lat": -81.22993393584036,
+                "lng": -178.44051312275357
+            },
+            "max": {
+                "lat": 83.40440222030591,
+                "lng": 179.68339204788208
+            }
+        },
+        "customCoordinates": "None",
+        "coordinateCount": "1M+",
+        "regions": "None",
+        "creator": {
+            "nick": "ThreeNineThree",
+            "created": "2018-08-19T15:31:11.3410000Z",
+            "isProUser": "True",
+            "consumedTrial": "True",
+            "isVerified": "False",
+            "pin": {
+                "url": "pin/d48d6640e8374b50ffeaa3bd9198e392.png",
+                "anchor": "center-center",
+                "isDefault": "False"
+            },
+            "fullBodyPin": "None",
+            "color": 0,
+            "url": "/user/5b798d3f4ee0359bb82e8a66",
+            "id": "5b798d3f4ee0359bb82e8a66",
+            "countryCode": "gb",
+            "onboarding": {
+                "tutorialToken": "None",
+                "tutorialState": "Unknown"
+            },
+            "br": {
+                "level": 70,
+                "division": 50,
+                "streak": 0
+            },
+            "streakProgress": "None",
+            "explorerProgress": "None",
+            "dailyChallengeProgress": 0,
+            "progress": {
+                "xp": 161911,
+                "level": 70,
+                "levelXp": 160880,
+                "nextLevel": 71,
+                "nextLevelXp": 167090,
+                "title": {
+                    "id": 220,
+                    "tierId": 80
+                },
+                "brRank": {
+                    "rating": 156,
+                    "rank": 96,
+                    "gamesLeftBeforeRanked": 0,
+                    "division": {
+                        "id": 210,
+                        "divisionId": 60,
+                        "tierId": 40
+                    }
+                },
+                "csRank": {
+                    "rating": 393,
+                    "rank": 99,
+                    "gamesLeftBeforeRanked": 0,
+                    "division": {
+                        "id": 240,
+                        "divisionId": 60,
+                        "tierId": 10
+                    }
+                },
+                "duelsRank": {
+                    "rating": 369,
+                    "rank": 96,
+                    "gamesLeftBeforeRanked": 0,
+                    "division": {
+                        "id": 210,
+                        "divisionId": 60,
+                        "tierId": 40
+                    }
+                },
+                "competitionMedals": {
+                    "bronze": 4,
+                    "silver": 9,
+                    "gold": 25,
+                    "platinum": 0
+                },
+                "streaks": {
+                    "brCountries": 0,
+                    "brDistance": 0,
+                    "csCities": 2,
+                    "duels": 2
+                }
+            },
+            "competitive": {
+                "elo": 175,
+                "rating": 676,
+                "lastRatingChange": -13,
+                "division": {
+                    "type": 30,
+                    "startRating": 675,
+                    "endRating": 850
+                }
+            },
+            "lastNameChange": "2022-05-17T06:39:05.4220000Z",
+            "isBanned": "False",
+            "nameChangeAvailableAt": "None",
+            "avatar": {
+                "fullBodyPath": "None"
+            },
+            "isBotUser": "False"
+        },
+        "createdAt": "2022-03-25T17:12:42.0200000Z",
+        "updatedAt": "2022-03-25T17:12:42.0200000Z",
+        "numFinishedGames": 122,
+        "likedByUser": "None",
+        "averageScore": 21236,
+        "avatar": {
+            "background": "evening",
+            "decoration": "tractor",
+            "ground": "water",
+            "landscape": "mountains"
+        },
+        "difficulty": "VERY EASY",
+        "difficultyLevel": 1,
+        "highscore": "None",
+        "isUserMap": "True",
+        "highlighted": "True",
+        "free": "False",
+        "panoramaProvider": "StreetView",
+        "inExplorerMode": "False",
+        "maxErrorDistance": 18306728,
+        "likes": 4,
+        "locationSelectionMode": 2
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "lat": 51.92945098876953,
+        "lng": -3.827643871307373,
+        "panoId": "4E4765396C757548507A53416F76734F663678745741",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "gb",
+        "panoId_ascii": "NGe9luuHPzSAovsOf6xtWA"
+    },
+    {
+        "lat": 52.64149856567383,
+        "lng": 1.2156277894973755,
+        "panoId": "49687165534B30725564625038456434537138533777",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "gb",
+        "panoId_ascii": "IhqeSK0rUdbP8Ed4Sq8S7w"
+    },
+    {
+        "lat": 50.3745231628418,
+        "lng": -4.225609302520752,
+        "panoId": "30393676707158546B3836396F367741366E51772D51",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "gb",
+        "panoId_ascii": "096vpqXTk869o6wA6nQw-Q"
+    },
+    {
+        "lat": 53.75933074951172,
+        "lng": -0.37022796273231506,
+        "panoId": "534C7161613079772D75663030393979647744787877",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "gb",
+        "panoId_ascii": "SLqaa0yw-uf0099ydwDxxw"
+    },
+    {
+        "lat": 51.50755310058594,
+        "lng": -3.146831512451172,
+        "panoId": "7058643036466D4F75573776323778334F4A2D587167",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "gb",
+        "panoId_ascii": "pXd06FmOuW7v27x3OJ-Xqg"
+    },
+    {
+        "lat": -23.41558265686035,
+        "lng": -49.73447036743164,
+        "panoId": "7276384F5067303567366D3041744F677353554B5051",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "br",
+        "panoId_ascii": "rv8OPg05g6m0AtOgsSUKPQ"
+    },
+    {
+        "lat": 21.502809524536133,
+        "lng": -158.02442932128906,
+        "panoId": "364F7A2D6562613445516772586E5A325A7574664951",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "us",
+        "panoId_ascii": "6Oz-eba4EQgrXnZ2ZutfIQ"
+    },
+    {
+        "lat": 47.663116455078125,
+        "lng": 6.845650672912598,
+        "panoId": "52645F5A336A686558427668315170707537696D4A77",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "fr",
+        "panoId_ascii": "Rd_Z3jheXBvh1Qppu7imJw"
+    },
+    {
+        "lat": 45.38961410522461,
+        "lng": -92.86582946777344,
+        "panoId": "756A7048554B4C4A742D594B3850315F796A37617677",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "us",
+        "panoId_ascii": "ujpHUKLJt-YK8P1_yj7avw"
+    },
+    {
+        "lat": 38.094539642333984,
+        "lng": 13.454279899597168,
+        "panoId": "695971586663787159306C30414F71414941637A6741",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "it",
+        "panoId_ascii": "iYqXfcxqY0l0AOqAIAczgA"
+    },
+    {
+        "lat": 40.45262908935547,
+        "lng": -79.93665313720703,
+        "panoId": "6B4D614F37554336656242516677686C325863396B41",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "us",
+        "panoId_ascii": "kMaO7UC6ebBQfwhl2Xc9kA"
+    },
+    {
+        "lat": 39.63634490966797,
+        "lng": -105.32201385498047,
+        "panoId": "504162717066686A71474E64786B655A4230564D7777",
+        "heading": 0,
+        "pitch": 0,
+        "zoom": 0,
+        "streakLocationCode": "us",
+        "panoId_ascii": "PAbqpfhjqGNdxkeZB0VMww"
+    }
+]
