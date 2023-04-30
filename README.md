@@ -1,6 +1,6 @@
 # Developing a Computer Vision Learning Algorithm for the Game Geo Guesser
 
-![](https://imgur.com/a/RKDtxa9)
+![](https://i.imgur.com/RJFVhIM.jpg)
 
 Geo Guesser is a popular online game that challenges players to guess the location of a randomly selected place in the world based on a Google Street View image.
 
