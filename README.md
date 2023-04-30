@@ -12,4 +12,6 @@ The scope of the project will determine the method used for training the algorit
 
 A brief survey of available resources presents a wide range of potential training datasets, including options like (<https://www.kaggle.com/datasets/ubitquitin/geolocation-geoguessr-images-50k>).
 
+![](https://i.imgur.com/Kt2V9Ds.png)
+
 In conclusion, it is important to acknowledge that a project of this scope and complexity will require a significant amount of time and resources. The desired outcome may present challenges, but with a well-structured plan, it is feasible.
