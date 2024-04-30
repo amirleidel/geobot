@@ -15,3 +15,5 @@ A brief survey of available resources presents a wide range of potential trainin
 ![](https://i.imgur.com/Kt2V9Ds.png)
 
 In conclusion, it is important to acknowledge that a project of this scope and complexity will require a significant amount of time and resources. The desired outcome may present challenges, but with a well-structured plan, it is feasible.
+
+# Done by Hussein Abdulreda, Amir Leidel, Daniel Richter
